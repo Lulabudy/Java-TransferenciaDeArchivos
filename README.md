@@ -1,4 +1,4 @@
-# Java-TransferenciaDeArchivos
+# Java File transfer
 Transfer files between users using a Server which stores the files and sends them to the users that request it.
 
 ## Technologies
